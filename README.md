@@ -1,0 +1,1 @@
+# zabbix-server-6.0
